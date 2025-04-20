@@ -3,3 +3,6 @@ read appointment details
 set appointment 
 track patient history 
 create bill 
+read insurance type,
+read clain
+calculate the amount 
